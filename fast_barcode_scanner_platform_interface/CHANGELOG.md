@@ -1,3 +1,5 @@
+## 2.0.0-dev.4
+- fix build
 ## 2.0.0-dev.2
 
 - Refactoring

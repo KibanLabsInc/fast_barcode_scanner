@@ -1,5 +1,8 @@
 name: fast_barcode_scanner_platform_interface
 description: A common platform interface for the fast_barcode_scanner plugin.
+
+publish_to: https://afero.jfrog.io/artifactory/api/pub/fast-barcode-scanner-platform-interface
+
 homepage: https://github.com/jhoogstraat/fast_barcode_scanner/tree/master/fast_barcode_scanner_platform_interface
 repository: https://github.com/jhoogstraat/fast_barcode_scanner
 version: 2.0.0-dev.4

@@ -1,3 +1,5 @@
+## 2.0.0-dev.5
+- Fix build
 ## 2.0.0-dev.2
 
 - Analyze still images from binary or native image pickers on iOS and Android
